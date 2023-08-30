@@ -1,1 +1,1 @@
-Sitemap: https://NHS-South-Central-and-West.github.io/hypothesis-testing/sitemap.xml
+Sitemap: https://github.com/NHS-South-Central-and-West/hypothesis-testing/sitemap.xml

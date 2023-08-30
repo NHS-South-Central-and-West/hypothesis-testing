@@ -1,0 +1,34 @@
+project:
+  type: website
+
+format: 
+  revealjs:
+    menu: false
+    controls: false
+    section-divs: true
+    preview-links: true
+    embed-resources: true
+    transition: slide
+    background-transition: fade
+    navigation-mode: linear
+    email-obfuscation: javascript
+    theme: theme.scss
+
+revealjs-plugins:
+  - verticator
+  
+bibliography: references.bib
+
+code-link: true
+
+execute:
+  echo: true
+  freeze: auto
+
+title-slide-attributes:
+    data-background-image: "man/figures/logo.jpg"
+    data-background-position: "right 5% bottom 5%"
+    data-background-size: "22%"
+    data-background-opacity: "1"
+
+from: markdown+emoji

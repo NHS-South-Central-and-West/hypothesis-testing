@@ -43,7 +43,7 @@ How We Were Getting it Wrong
 - Science has given too much weight to p-values.
 - Not enough attention is paid to effect sizes, statistical power, and the garden of forking paths [@gelman2021].
 
-## Does "Statistical Significance" Matter?
+## Does "Statistical Significance" Matter? {.center}
 
 - Statistical significance is an indication of how surprised we are by what we observe in the data, given our assumption that the null hypothesis is true.
 - Does it really matter if we are surprised or not? 
